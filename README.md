@@ -8,4 +8,4 @@ To understand the correlation, we took a dataset that studied the relation betwe
 In the dataset, there are 4 types of posture type. Posture A being the best posture type while Posture D being the worst posture type. Upon trying to analyze the relation between the personality type and the posture, we found out the following relationship. 
 
 ![Screenshot 2024-03-02 160250](https://github.com/sayamathema/posture-personality/assets/110393954/672dc3d4-c14d-4a11-9078-49d9531e6b5a)
-random
+
