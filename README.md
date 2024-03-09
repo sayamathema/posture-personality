@@ -20,3 +20,5 @@ ESFP  had the highest Count of MBTI and was 1,100.00% higher than INTJ, which ha
 
 ![image](https://github.com/sayamathema/posture-personality/assets/110393954/5146be51-361d-4929-a403-0852e3e33ae0)
 
+
+![image](https://github.com/sayamathema/posture-personality/assets/110393954/d376e3a1-c480-4891-bd7a-9c45b904afb8)
