@@ -2,9 +2,11 @@
 
 Are you a **hunchbacked hermit** or a **power-posing** peacock? We explore the science behind how you stand and how it reflects who you are (without the awkward staring!). 
 Work-related back pain is a prevalent condition that frequently impacts the workforce, leading to disability, increased healthcare needs, and a significant socioeconomic impact. Despite the ongoing mystery surrounding the origin of occupational pain, there is anecdotal evidence suggesting that both personality and posture play roles in the prolonged management of pain, indicating a direct influence of the mind-body axis. This study aims to thoroughly examine the connections between posture and personality.
-To understand the correlation, we took a dataset that studied the relation between a person's level of pain in relation to their age, height, weight, sex, activity level,but most importantly their MBTI personality type. [Source: Correlation between Posture & Personality Trait](https://www.kaggle.com/datasets/dhanasekarjaisankar/correlation-between-posture-personality-trait)
+To understand the correlation, we took a dataset that studied the relation between a person's level of pain in relation to their age, height, weight, sex, activity level,but most importantly the relationship between posture and their MBTI personality type. [Source: Correlation between Posture & Personality Trait](https://www.kaggle.com/datasets/dhanasekarjaisankar/correlation-between-posture-personality-trait)
 
-![Screenshot 2024-03-02 153538](https://github.com/sayamathema/posture-personality/assets/110393954/0226b16e-c102-4b01-b4a4-f4ff489bbd3e)
+The Myers-Briggs Personality Type Indicator is a self-report inventory designed to identify a person's personality type, strengths, and preferences. The questionnaire was developed by Isabel Myers and her mother Katherine Briggs based on their work with Carl Jung's theory of personality types. Today, the MBTI inventory is one of the world's most widely used psychological instruments. [Source: Very Well Mind, How the Myers-Briggs Type Indicator Works](https://www.verywellmind.com/the-myers-briggs-type-indicator-2795583)
+
+There are 16 different MBTI types shown as below.![Screenshot 2024-03-02 153538](https://github.com/sayamathema/posture-personality/assets/110393954/0226b16e-c102-4b01-b4a4-f4ff489bbd3e)
 
 In the dataset, there are 4 types of posture type. Posture A being the best posture type while Posture D being the worst posture type. Upon trying to analyze the relation between the personality type and the posture, we found out the following relationship. 
 
